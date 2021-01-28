@@ -92,3 +92,30 @@ Le management des risques doit être flexible. L’environnement concurrentiel o
 11. *Le management des risques facilite l'amélioration continue de l'organisation.*
 
 Les organisations possédant une maturité en matière de management des risques sont celles qui investissent à long terme et qui démontrent la réalisation régulière de ses objectifs.
+
+## AMDEC
+
+L'analyse des modes de défaillance, de leur effets et de leur criticité est un outil de sureté de fonctionnement et de gestion de la qualité. Qu'elle porte sur un produit, un service, un système, un processus, la réalisation d'une AMDEC doit être collective, exhaustive et systématique.
+
+L'AMDEC est une démarche normalement collective. Idéalement, les différents participants représentent des points de vue ou expertises divers (conception, fabrication, exploitant...) et ont un pouvoir décisionnel pour engager le cas échéant des mesures correctives.
+
+Systématisme et exhaustivité sont assurés par l'examen de chaque mode de défaillance pour tous les composants du système ou, en approche fonctionnelle, de tous les trinômes fonction / critère / paramètre.
+
+Pour chaque mode:
+
+* On identifie et évalue :
+  * sa (ses) cause(s) et l'indice de fréquence (classe d'occurrence),
+  * ses effets et l'indice de gravité (classe de sévérité),
+  * les mesures mises en place pour détecter la défaillance et l'indice de détection (classe de probabilité de détection),
+* On calcule la criticité : (indice de fréquence) × (indice de gravité) × (indice de détection),
+* Si la criticité seuil est atteinte, on engage des actions correctives,
+* Si le but poursuivi est l'amélioration, on traitera en priorité les causes des modes de défaillance présentant les plus fortes criticités.
+
+*Remarque : Dans certaines applications, on utilise les probabilités au lieu des indices.*
+
+
+| Note F  | Fréquence ou probabilité d'apparition | Note G | Gravité | Note D | Probabilité de non-détection |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 10  | Permanent   | 10  | Mort d'homme ou catastrophe environnementale   | 10  | Aucune probabilité de détection   |
+| 5  | Fréquent   | 5  | Conséquences financières et/ou matérielles   | 5  | Un système de détection est en place mais n'est pas infaillible   |
+| 1  | Invraisemblable   | 1  | Pas grave   | 1  | Le système de détection est infaillible   |
