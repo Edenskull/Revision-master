@@ -119,3 +119,9 @@ Pour chaque mode:
 | 10  | Permanent   | 10  | Mort d'homme ou catastrophe environnementale   | 10  | Aucune probabilité de détection   |
 | 5  | Fréquent   | 5  | Conséquences financières et/ou matérielles   | 5  | Un système de détection est en place mais n'est pas infaillible   |
 | 1  | Invraisemblable   | 1  | Pas grave   | 1  | Le système de détection est infaillible   |
+
+On évalue la criticité, parfois appelée IPR (Indice de Priorité du Risque), par le produit :
+
+    C = F × G × D.
+
+Plus C est grand, plus le mode de défaillance est critique. Lorsque les indices sont notés sur 10, les entreprises fixent généralement une criticité maximale (sans action corrective) autour de 100. 
