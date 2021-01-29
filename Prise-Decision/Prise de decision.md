@@ -13,9 +13,7 @@ Le but de la décision est d’améliorer le processus de la prise de décision 
 La décision est une des dimensions centrales du management des organisations. Certains auteurs, dont Igor Ansoff, ont distingué décisions stratégiques, tactiques et opérationnelles, selon leurs conséquences sur le devenir de l’organisation: 
 
 * Les décisions stratégiques sont prises par la direction générale de l'entreprise. Elles concernent les orientations générales de l'entreprise. Elles ont une implication sur le long terme et engagent l'avenir de l'entreprise. Elles comportent un risque important. *Exemples: lancement d’un nouveau produit, abandon d’une activité, fusion avec une autre entreprise.*
-
 * Les décisions tactiques sont prises par le personnel d'encadrement de l'entreprise. Elles ont une implication sur le moyen terme et des conséquences importantes pour l’entreprise. Elles comportent un risque moyen. *Exemples: lancement d'une campagne publicitaire, acquisition de matériel de production, recrutement d’un cadre dirigeant.*
-
 * Les décisions opérationnelles ont une portée limitée et comportent un risque mineur. Elles sont prises par le personnel d'encadrement ou les employés. *Exemples: achat de fournitures de bureau, organisation des horaires de travail.*
 
 ### **Processus de décision**
@@ -23,11 +21,8 @@ La décision est une des dimensions centrales du management des organisations. C
 Le processus de décision est un processus complexe dont l'étude peut être facilitée par la référence à des modèles théoriques. Le modèle de la rationalité limitée ou IMCC, proposé par Herbert Simon, comporte quatre phases : intelligence, modélisation, choix et contrôle.
 
 * L’intelligence : le décideur identifie dans son environnement des situations pour lesquelles il va devoir prendre des décisions.
-
 * La modélisation : le décideur recense les informations, les structures de façon à disposer de solutions envisageables.
-
 * Le choix : à partir de l'évaluation de chaque solution, le décideur choisit la meilleure d'entre elles.
-
 * Le contrôle : vient confirmer le choix effectué ou le remettre en question
 
 H. Simon remarque qu'en pratique de nombreux obstacles peuvent survenir lors d'une prise de décision. Ils viennent « limiter » la rationalité de la décision.
@@ -37,11 +32,8 @@ H. Simon remarque qu'en pratique de nombreux obstacles peuvent survenir lors d'u
 Plusieurs éléments influencent, dans un contexte donné, la prise de décision:
 
 * Les caractéristiques de l'entreprise (taille, propriété, localisation, climat social, culture, histoire…).
-
 * L'évolution du marché (croissance, stagnation, déclin).
-
 * Les logiques financières.
-
 * Le contexte géopolitique…
 
 Cependant, la personnalité et le style de direction du dirigeant est un facteur explicatif et déterminant du processus de décision dans les entreprises. 
